@@ -7,6 +7,10 @@ This is a NextJS template used throughout Dreamslab for website development proj
 - shadcn-ui + Lucide Icons
 - Optional Directus
 
+## Using the template
+
+`npx create-next-app --example https://github.com/dreamsLAB-kh/website-template <project-name>`
+
 ## Getting Started
 
 First, install the dependencies:
