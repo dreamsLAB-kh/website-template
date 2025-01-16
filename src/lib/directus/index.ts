@@ -10,7 +10,7 @@
 //   getMediaUrl(id: string, preset?: ImagePreset): string;
 // }
 
-// const directus = createDirectus<Schema>(process.env.NEXT_PUBLIC_API_URL!).with(
+// const directus = createDirectus<Schema>(process.env.NEXT_PUBLIC_DIRECTUS_URL!).with(
 //   rest({
 //     onRequest: (options) => ({ ...options, cache: 'no-store' }),
 //   })
