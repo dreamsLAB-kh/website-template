@@ -56,7 +56,7 @@ yarn style:fix
 
 To enable github workflow, follow the steps below:
 
-- Go to `.github/workflows` and uncomment all the code in `prebuild.yml`
+- Go to `.github/workflows` and uncomment all the code in `pre-deploy.yml`
 
 ## Enabling Directus
 
