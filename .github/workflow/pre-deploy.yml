@@ -1,6 +1,6 @@
 # UNCOMMENT THIS FILE TO ENABLE PREBUILD CHECKS
 
-# name: Prebuild check
+# name: Pre-deploy check
 
 # on:
 #   push:
